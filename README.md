@@ -15,7 +15,7 @@ El sistema se dividirá en dos partes:
 1. **Servidor**: Se encargará de gestionar las conexiones de los clientes y retransmitir los mensajes a todos los participantes. 
 2. **Cliente**: Se conectará al servidor, enviará mensajes y recibirá mensajes de otros usuarios en tiempo real.
 
-###Tareas a realizar 
+### Tareas a realizar 
 ---------------------------
 
 1. **Implementar el Servidor**
